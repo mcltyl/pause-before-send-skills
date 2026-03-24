@@ -3,5 +3,13 @@
 .idea/
 *.pyc
 __pycache__/
-.env
 node_modules/
+.env
+.env.*
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+secrets.*
+*.secret
+credentials.*
