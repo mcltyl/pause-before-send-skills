@@ -25,17 +25,17 @@ Works with Claude Code, Codex CLI, OpenClaw, and any Agent Skills-compatible too
 
 ### npx skills
 ```bash
-npx skills add git@github.com:mcltyl/pause-before-send.git
+npx skills add git@github.com:mcltyl/pause-before-send-skills.git
 ```
 
 ### Claude Code / Codex CLI
 ```bash
-git clone https://github.com/mcltyl/pause-before-send.git ~/.claude/skills/pause-before-send
+git clone https://github.com/mcltyl/pause-before-send-skills.git ~/.claude/skills/pause-before-send
 ```
 
 ### OpenClaw
 ```bash
-git clone https://github.com/mcltyl/pause-before-send.git ~/.openclaw/skills/pause-before-send
+git clone https://github.com/mcltyl/pause-before-send-skills.git ~/.openclaw/skills/pause-before-send
 ```
 
 ---
